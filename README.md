@@ -1,1 +1,1 @@
-# orouboros-pano
+# ouroboros-pano
